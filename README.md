@@ -37,11 +37,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliminator746&show_icons=true&hide_title=true&count_private=true&theme=github_dark" alt="Eliminator746's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliminator746&theme=github-dark-blue" alt="Eliminator746's GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliminator746&layout=compact&theme=github_dark" alt="Eliminator746's Top Languages" />
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eliminator746&show_icons=true&hide_title=true&count_private=true&theme=github_dark" alt="Eliminator746's GitHub stats" style="width: 100%; height: auto;" />
+</div>
+<div style="display: flex; justify-content: space-between; gap: 10px; margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliminator746&theme=github-dark-blue" alt="Eliminator746's GitHub streak" style="width: 49%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliminator746&layout=compact&theme=github_dark" alt="Eliminator746's Top Languages" style="width: 49%; height: auto;" />
+</div>
 
 ---
 
@@ -55,4 +57,4 @@
 
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="left">Thanks for visiting! 🚀</p>
