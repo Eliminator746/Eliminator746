@@ -51,10 +51,7 @@
 
 <p align="left">
   <a href="https://twitter.com/kumar9255" target="blank"><img src="https://img.shields.io/badge/Twitter-0077b6?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:anishkumar746@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-232F3E?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/anish-kumar-85679a224/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Eliminator746" target="blank"><img src="https://img.shields.io/badge/GitHub-22272e?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
-
-<p align="center">Thanks for visiting! 🚀</p>
