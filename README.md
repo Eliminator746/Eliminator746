@@ -20,41 +20,41 @@
 ## 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-0077b6?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-228B22?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
-  <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.shields.io/badge/Django%20REST%20Framework-0077b6?style=for-the-badge&logo=django&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-e34c26?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-22272e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-00ED64?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-20232A?style=flat&logo=express&logoColor=white" alt="Express.js" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-0077b6?style=flat&logo=react&logoColor=white" alt="React" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-228B22?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" /></a>
+  <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://img.shields.io/badge/Django%20REST%20Framework-0077b6?style=flat&logo=django&logoColor=white" alt="Django REST Framework" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-e34c26?style=flat&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-22272e?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Eliminator746&show_icons=true&hide_title=true&count_private=true&theme=github_dark" alt="Eliminator746's GitHub stats" style="width: 100%; height: auto;" />
-</div>
-<div style="display: flex; justify-content: space-between; gap: 10px; margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliminator746&theme=github-dark-blue" alt="Eliminator746's GitHub streak" style="width: 49%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliminator746&layout=compact&theme=github_dark" alt="Eliminator746's Top Languages" style="width: 49%; height: auto;" />
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eliminator746&show_icons=true&hide_title=true&count_private=true&theme=github_dark" alt="Anish's GitHub stats" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eliminator746&theme=github-dark-blue" alt="Anish's GitHub streak" />
+</p>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliminator746&layout=compact&theme=github_dark" alt="Anish's Top Languages" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/kumar9255" target="blank"><img src="https://img.shields.io/badge/Twitter-0077b6?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:anishkumar746@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-232F3E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Eliminator746" target="blank"><img src="https://img.shields.io/badge/GitHub-22272e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/kumar9255" target="blank"><img src="https://img.shields.io/badge/Twitter-0077b6?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:anishkumar746@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-232F3E?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Eliminator746" target="blank"><img src="https://img.shields.io/badge/GitHub-22272e?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-<p align="left">Thanks for visiting! 🚀</p>
+<p align="center">Thanks for visiting! 🚀</p>
